@@ -1,3 +1,3 @@
 # NextRepo
 zmiana 1
-zmiana 2
+zmiana 2Zmiana3
